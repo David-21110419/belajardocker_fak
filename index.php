@@ -68,6 +68,7 @@ if ($result_all->num_rows > 0) {
     <!-- Products -->
 <section class="all-products">
     <h2>Rekomendasi Kami~</h2>
+    <h3>pastikan untuk memeriksa harga dan menu dengan benar</h3>
     <div id="productCarousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
