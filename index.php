@@ -68,9 +68,9 @@ if ($result_all->num_rows > 0) {
     <!-- Products -->
 <section class="all-products">
     <h2>Rekomendasi Kami~</h2>
-    <h3>pastikan untuk memeriksa harga dan menu dengan benar</h3>
+    <h3>pastikan untuk memeriksa hargjja dan menu dengan benar</h3>
     <h4>gini amat dah</h4>
-    <h5>siapa suruh masuk mikroskil</h5>
+    <h5>siapa suruh masuk ,,mikroskil</h5>
     <h6>ehehehehehehheheeeehh</h6>
     <div id="productCarousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
