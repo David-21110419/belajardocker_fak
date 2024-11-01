@@ -71,6 +71,7 @@ if ($result_all->num_rows > 0) {
     <h3>pastikan untuk memeriksa harga dan menu dengan benar</h3>
     <h4>gini amat dah</h4>
     <h5>siapa suruh masuk mikroskil</h5>
+    <h6>ehehehehehehheheeeehh</h6>
     <div id="productCarousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
